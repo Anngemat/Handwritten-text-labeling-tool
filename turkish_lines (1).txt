@@ -1,0 +1,29 @@
+# lines/formxxx-yy.png -> path of the line
+# xxx -> number of the form
+# yy -> line number
+# ex: form024-4.png means the fourth line of the 24th form
+# ok -> the line is segmented correctly and doesn't contain error words
+# err -> the line was either segmented wrongly or contains an error word
+# third column contains what is written in the line
+# the words are separated with the pipe (|) sign
+lines/form003/form003-1.png err kirişiydi.|Yine|öyle|oldu.|Görmediğim,|bilmediğim
+lines/form003/form003-2.png err bir|musiki|aleti|ile|hallaç|kirişini|birbirine
+lines/form003/form003-3.png ok karıştırıp|eski|romanlarda|resimlerini
+lines/form002/form002-1.png err The|Fifa|World|Cup|often|simply|called
+lines/form002/form002-2.png ok the|World|Cup|is|an|association|football
+lines/form002/form002-3.png err competition|contested|by|the|senior|men's
+lines/form002/form002-4.png ok national|teams|of|the|members|of|the
+lines/form002/form002-5.png err FIFA.|The|championship|has|been|awarded
+lines/form002/form002-6.png err every|four|years|except|in|1942|-|1946
+lines/form002/form002-7.png ok when|it|was|not|held|due|to|WWII.
+lines/cvl001/cvl001-1.png err Imagine|a|vast|sheep|of|paper|on|which|straight
+lines/cvl001/cvl001-2.png err Lines,|Triangles,|Squares,|Pentagons,|Hexagons,
+lines/cvl001/cvl001-3.png ok and|other|figures,|instead|of|remaining|fixed|in
+lines/cvl001/cvl001-4.png err their|places,|move|freely|about,|on|a|in|the|surface
+lines/cvl001/cvl001-5.png ok but|without|the|power|of|rising|above|a|sinking
+lines/cvl001/cvl001-6.png ok below|it|very|much|like|shadows|only|hard|and
+lines/cvl001/cvl001-7.png ok with|luminious|edges-|and|you|will|then|have|a|pretty
+lines/cvl001/cvl001-8.png ok correct|notion|of|my|country|and|countrymen.|Alas,|a
+lines/cvl001/cvl001-9.png err few|years|ago,|Ishould|have|said|"|my|universe|but
+lines/cvl001/cvl001-10.png ok now|my|mind|has|been|opened|to|higher|views|of
+lines/cvl001/cvl001-11.png ok things.
